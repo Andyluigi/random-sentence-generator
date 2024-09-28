@@ -1,0 +1,2 @@
+Option = ['hi,', 'how are you?', 'great', 'bad', 'good','whats your name?','hi','i`m','i`m good','i`m bad','i`m great','thanks','']
+Target = ['hi, how are you? i`m good.','hi, how are you? i`m great.','hi, how are you? i`m bad.','how are you? i`m good.','how are you? i`m greate.','how are you? i`m bad.']
